@@ -1,6 +1,6 @@
 cmake_minimum_required(VERSION 3.0)
 
-project(cquadpack C)
+project(cquadpack LANGUAGES C CXX)
 
 include_directories(include)
 
